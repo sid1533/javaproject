@@ -1,4 +1,4 @@
-// Java program to illustrate for loop
+/// Java program to illustrate for loop
 class forLoopDemo {
     public static void main(String args[])
     {
